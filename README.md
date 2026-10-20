@@ -73,9 +73,8 @@ B.A. in Computer Science and Game Studies, University of Delaware, 2026.
 ## Right now
 
 - Looking for game programming and design roles
-- Building a souls-like boss fight in Unreal
+- Programming and designing in two game jams a month in Unity
+- Leading design and production for a PC/Mobile game in Godot
 - Running weekly D&D campaigns on StartPlaying, with a Top GM badge and a 5.0 rating
-
-I use Claude Code for drafts and scaffolding, and I write the code that ships. [More on how I use AI tools](https://lukebonniwell.com/devlog/how-i-use-ai/?ref=github).
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Lukebonn&label=profile%20views&color=ffa61f&style=flat-square" alt="Profile views"></p>
