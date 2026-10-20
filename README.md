@@ -76,5 +76,3 @@ B.A. in Computer Science and Game Studies, University of Delaware, 2026.
 - Programming and designing in two game jams a month in Unity
 - Leading design and production for a PC/Mobile game in Godot
 - Running weekly D&D campaigns on StartPlaying, with a Top GM badge and a 5.0 rating
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Lukebonn&label=profile%20views&color=ffa61f&style=flat-square" alt="Profile views"></p>
